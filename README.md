@@ -1,7 +1,7 @@
 
 # Learn CI/CD Pipelines
 
-Welcome to the **Learn CI/CD Pipelines** repository! This course is designed for developers and DevOps enthusiasts who want to learn how to implement Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
+Welcome to  **Learn CI/CD Pipelines** repository! This course is designed for developers and DevOps enthusiasts who want to learn how to implement Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
 
 ## Course Index
 
