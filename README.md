@@ -15,9 +15,6 @@ Before you begin, make sure you have the following:
 
 To get started, clone the repository to your local machine using the following command:
 
-```bash
-git clone git@github.com:shashi4u1988/ci-cd-learn-lab.git
-
  - Clone repo.
  
   ```bash
