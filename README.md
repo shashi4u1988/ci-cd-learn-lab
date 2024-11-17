@@ -48,5 +48,5 @@ To get started, clone the repository to your local machine using the following c
 
    Login or Access your container (Server) 
 ```bash
-   docker exce -it my-devops-lean-server /bin/bash 
+   docker exec -it my-devops-lean-server /bin/bash 
 ```
